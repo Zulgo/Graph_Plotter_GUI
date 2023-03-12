@@ -18,4 +18,4 @@ Screenshots
 Screenshot 1
 
 License
-This code is licensed under the MIT License. See the LICENSE file for details.
+This code is licensed under the MIT License
